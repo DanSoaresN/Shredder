@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AdobeColor-orange teal_0: -6534406595214586923
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
